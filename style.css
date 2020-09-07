@@ -1,0 +1,27 @@
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+   width: 150px;
+}
+
+input{
+    width: 165px;
+}
+
+#content{
+    margin: 5px 0 10px 0;
+}
+
+#time{
+    margin-top: 5px;
+}
+
+#buttons{
+    width: 52px;
+    display: flex;
+
+    margin-top: 10px;
+}
